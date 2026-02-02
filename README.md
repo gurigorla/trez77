@@ -2,7 +2,102 @@ are the parties involved in insurance?
 
 Yuvraj, can you hear us?
 
-Yeah, Hi.
+Yeah, Hi.Got it 👍
+Here are clear, easy notes of understanding from your transcript, written in a training / insurance learning style.
+
+⸻
+
+Topic: Parties Involved in Insurance & Role of Claims Handler
+
+1. Parties Involved in Insurance
+
+There are three main parties involved in an insurance contract:
+	1.	Insurer
+	•	The insurance company
+	•	Provides insurance coverage
+	•	Pays the claim amount if a covered loss occurs
+	2.	Insured
+	•	The person who buys the insurance policy
+	•	Pays the premium
+	•	Claims insurance when a loss occurs
+	3.	Third Party
+	•	Any other person who suffers loss or damage due to the insured
+	•	Common in motor/auto insurance cases
+
+⸻
+
+2. What Is a Claim?
+	•	A claim is a request made by the insured to the insurer for compensation.
+	•	A claim arises when a loss occurs (accident, damage, theft, etc.).
+	•	The insured submits documents, proofs, and bills to support the claim.
+
+⸻
+
+3. Role / Function of a Claims Handler
+
+A claims handler is responsible for managing and settling insurance claims.
+
+Key Responsibilities:
+	•	Validate the claim submitted by the insured
+	•	Check whether the claim is genuine or fraudulent
+	•	Verify:
+	•	Claim documents
+	•	Evidence and proof of loss
+	•	Estimates, invoices, and repair bills
+	•	Identify fraudulent activities, if any
+	•	Calculate the payable claim amount
+	•	Follow up with:
+	•	Insured for missing documents
+	•	Repairers or garages for bills and estimates
+
+⸻
+
+4. Coverage Verification
+
+Before processing a claim, the claims handler must:
+	•	Check whether the coverage is available in the policy
+	•	Identify the proximate cause of loss
+
+Proximate Cause:
+	•	The main and direct cause of the loss
+	•	If the proximate cause is covered under the policy, the claim is processed
+	•	If not covered, the claim may be rejected immediately
+
+⸻
+
+5. Deductible
+	•	A deductible is the amount that the insured must bear
+	•	It is reduced from the final claim payment
+	•	Other deductions may also apply as per policy rules
+	•	(Detailed discussion happens in claim-specific sessions)
+
+⸻
+
+6. Claim Settlement Process (Summary)
+	1.	Loss occurs
+	2.	Insured files a claim
+	3.	Claims handler verifies documents and coverage
+	4.	Proximate cause is identified
+	5.	Fraud check and investigation done
+	6.	Deductibles and reductions applied
+	7.	Final payment is calculated
+	8.	Claim is settled
+
+⸻
+
+7. Introduction to Auto Insurance
+	•	Vehicle insurance is also called Auto Insurance
+	•	Mostly refers to four-wheeled vehicles
+	•	Detailed discussion on auto insurance follows in later sessions
+
+⸻
+
+If you want, I can also:
+	•	Convert this into a formal PDF
+	•	Make it exam-ready notes
+	•	Create Q&A or interview points from this
+
+Just tell me 😊
 1:51
 1 minute 51 seconds
 Hi.
