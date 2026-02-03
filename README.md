@@ -277,24 +277,4 @@ Benefits
 
 ⸻
 
-10. Session Roadmap (as mentioned)
-	•	Next: Auto Insurance – detailed discussion
-	•	Following: Property Insurance – deep dive
 
-⸻
-
-🔑 Final Revision Summary (Quick Recall)
-	•	Insurable interest is mandatory
-	•	Aggregators provide quotes, not policies
-	•	Claimant ≠ Beneficiary
-	•	Underwriters decide risk
-	•	Claims handlers manage losses
-	•	Guidewire modernizes insurance systems
-
-⸻
-
-If you want, I can:
-	•	Convert this into interview Q&A
-	•	Make one-page cheat sheets
-	•	Create PowerPoint-style notes
-	•	Simplify into exam answers
