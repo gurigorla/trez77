@@ -1,100 +1,144 @@
-'m Bhavya, so I'll be walking you guys through auto application flow today.
-1:32
-1 minute 32 seconds
-It it will be very short session.
-1:34
-1 minute 34 seconds
-So let's start now broadly dividing.
-1:39
-1 minute 39 seconds
-Auto flow is divided, basically divided into two kinds.
-1:42
-1 minute 42 seconds
-It is Pass and AIR flow.
-1:45
-1 minute 45 seconds
-Pass is nothing but policy, administrative system and AIR is a auto insurance redesign.
-26:21
-26 minutes 21 seconds
-So once you start working on coding you will be.
-26:30
-26 minutes 30 seconds
-You also need to concentrate on this transaction, so based on this you can be debugging the errors or issues which we'll be getting while working on codes.
-26:42
-26 minutes 42 seconds
-But now let's just stick to the flow.
-27:14
-27 minutes 14 seconds
-But this is also not working right?
-28:03
-28 minutes 3 seconds
-Am I audible guys?
-28:11
-28 minutes 11 seconds
-Hello.
-28:29
-28 minutes 29 seconds
-Yeah hello.
-28:34
-28 minutes 34 seconds
-Who is this?
-29:34
-29 minutes 34 seconds
-None of the regions are working for mobile and member.
-29:38
-29 minutes 38 seconds
-So OK all the basic things what you need for keying the policy in mobile and member I have given to you already.
-29:47
-29 minutes 47 seconds
-So I guess you guys can start trying by keying the policy and let me know if you have any doubts.
-29:55
-29 minutes 55 seconds
-You can see you can check select any of the regions and key the policy.
-30:02
-30 minutes 2 seconds
-As I said the default password will be core value S one and if it asks for four digit pin it will be 1231 and if it asks for six digit pin it will be 123456.
-30:15
-30 minutes 15 seconds
-So I hope you guys can go and start trying to take the policies.
-30:21
-30 minutes 21 seconds
-Also if you want any details regarding the auto application flow, you can also go to go slash auto newbie.
-30:29
-30 minutes 29 seconds
-So you will have all the details related to auto flow there 4 slash auto auto QP.
-30:40
-30 minutes 40 seconds
-Oh if you see this you'll have all the details related to auto flow code related things and all the training things you'll you'll find in this wiki link.
-30:57
-30 minutes 57 seconds
-They'll have all these things so you can go through them and you can get back to me if you have any doubts.
-31:05
-31 minutes 5 seconds
-So as we have seen MSR flow, so MSR, I guess you guys are fine with MSR, right?
-31:13
-31 minutes 13 seconds
-Any doubts regarding that one, OK, I'll take it as a no.
-31:25
-31 minutes 25 seconds
-So we need to you guys need to go through the member and mobile flows.
-31:31
-31 minutes 31 seconds
-So I request you to go and start keying member and mobile flow and get back to me if you have any doubts.
-31:39
-31 minutes 39 seconds
-So my mail ID is bhavya.get@usw.com.
-31:45
-31 minutes 45 seconds
-You can ping there or you can ping in teams also.
-31:49
-31 minutes 49 seconds
-So I guess we can wind up the session now.
-31:52
-31 minutes 52 seconds
-So any doubts regarding anything related to auto flow, just feel free to ask now.
-32:25
-32 minutes 25 seconds
-OK guys, then I think we are good.
-32:30
-32 minutes 30 seconds
-Shirin, do you want to want me to cover anything else now?
+Got it 👍 I’ll turn this into clean, detailed revision notes that you can use for training + interviews. I’ll also structure it properly since the transcript is a bit scattered.
+
+⸻
+
+Auto Application Flow – Detailed Notes
+
+1. Introduction
+	•	Trainer: Bhavya
+	•	Topic: Auto Application Flow
+	•	Session Type: Short introductory session
+	•	Purpose:
+	•	To give an overview of the Auto Insurance application flow
+	•	To help trainees understand system flows before starting coding or policy keying
+
+⸻
+
+2. Overview of Auto Application Flow
+
+The Auto Application Flow is broadly divided into two main types:
+
+2.1 PASS Flow
+	•	PASS stands for Policy Administrative System
+	•	It is the core system used for:
+	•	Policy creation
+	•	Policy administration
+	•	Managing policy-related transactions
+
+2.2 AIR Flow
+	•	AIR stands for Auto Insurance Redesign
+	•	It is a newer/redesigned auto insurance application
+	•	Focuses on:
+	•	Improved architecture
+	•	Better handling of auto insurance transactions
+	•	Modernized auto insurance flow
+
+📌 Understanding both PASS and AIR is important before working on auto insurance code.
+
+⸻
+
+3. Importance of Understanding the Flow
+	•	Once you start working on coding, you must:
+	•	Understand transactions
+	•	Know how data flows through the application
+	•	This helps in:
+	•	Debugging errors
+	•	Identifying issues while coding
+	•	Understanding failures during policy processing
+
+For now, the focus is only on understanding the flow, not coding.
+
+⸻
+
+4. Auto Policy Keying Process
+
+4.1 Regions Issue
+	•	At the time of the session:
+	•	Some regions were not working for:
+	•	Mobile flow
+	•	Member flow
+	•	Despite this:
+	•	Trainees are encouraged to select any available region
+	•	Try keying the policy
+
+⸻
+
+5. Member & Mobile Flow
+	•	Member Flow and Mobile Flow are important parts of Auto application
+	•	Basic requirements for policy keying were already shared earlier
+	•	Trainees are requested to:
+	•	Practice keying policies in Member and Mobile flows
+	•	Reach out in case of doubts
+
+MSR flow was already covered earlier and assumed to be clear.
+
+⸻
+
+6. Login Credentials (Default)
+
+While accessing the Auto application:
+	•	Default Password:
+corevalueS1
+	•	4-digit PIN:
+1231
+	•	6-digit PIN:
+123456
+
+These credentials are used for training/practice purposes.
+
+⸻
+
+7. Reference & Learning Resources
+
+7.1 Auto Newbie Wiki
+	•	URL:
+	•	go/auto-newbie
+	•	Contains:
+	•	Complete Auto application flow details
+	•	Beginner-friendly documentation
+
+7.2 Auto QP Wiki
+	•	URL:
+	•	go/auto/auto-QP
+	•	Contains:
+	•	Auto flow details
+	•	Code-related information
+	•	Training material
+	•	Technical documentation
+
+📘 Trainees are encouraged to go through these wiki links thoroughly.
+
+⸻
+
+8. Support & Communication
+	•	Trainer Email:
+bhavya.get@usw.com
+	•	Can contact via:
+	•	Email
+	•	Microsoft Teams
+
+⸻
+
+9. Action Items for Trainees
+	1.	Go through Member Flow and Mobile Flow
+	2.	Start keying auto policies
+	3.	Refer to:
+	•	Auto Newbie wiki
+	•	Auto QP wiki
+	4.	Note down doubts and reach out to the trainer
+
+⸻
+
+10. Session Conclusion
+	•	Session wrapped up after confirming:
+	•	No immediate doubts from participants
+	•	Trainer offered to:
+	•	Clarify any auto flow-related questions anytime
+
+⸻
+
+If you want, I can also:
+	•	📌 Convert this into exam/interview notes
+	•	📌 Make a one-page quick revision sheet
+	•	📌 Add flow diagrams (PASS vs AIR, Member vs Mobile)
+Just tell me 👍
