@@ -1,253 +1,100 @@
-Got it 👍 This looks like a property & personal insurance training session transcript. I’ll convert it into clean, detailed revision notes, exam-friendly and easy to remember. I’ll use headings, bullet points, and examples so you can revise fast before assessments.
-
-⸻
-
-Insurance – Detailed Revision Notes (Based on Transcript)
-
-⸻
-
-1. Insurance Policy Issuance Process
-
-Step-by-Step Flow
-	1.	Information Collection
-	•	Basic details of the prospect (person taking insurance)
-	•	Details about property / risk
-	•	Information collected through an application form & questionnaire
-	2.	Quotation (Quote) Creation
-	•	Based on the information provided
-	•	Premium and coverage are calculated
-	•	Quote is shared:
-	•	Through an agent, or
-	•	Directly to the prospect
-	3.	Prospect Decision
-	•	If the prospect is:
-	•	Satisfied with benefits
-	•	Happy with price
-	•	They agree to proceed
-	4.	Policy Issuance
-	•	Final insurance policy is issued
-	•	Coverage begins as per policy terms
-
-⸻
-
-2. Role of Questionnaire & Underwriting
-	•	The questionnaire helps underwriters to:
-	•	Assess the risk
-	•	Decide whether to:
-	•	Accept the risk
-	•	Reject the risk
-	•	Accept with conditions / higher premium
-
-Examples of Risk Factors
-	•	Property having:
-	•	Swimming pool
-	•	Trampoline
-	•	Susceptible animals (dogs, cats)
-	•	Garage
-	•	These increase liability risk
-
-⸻
-
-3. Property Ownership & Type of Insurance
-
-A. Property Owner (Landlord)
-	•	Owns the building
-	•	Does not live in the house
-	•	Lives elsewhere
-	•	Buys Rental Property Insurance
-	•	Can insure:
-	•	Building only
-	•	Cannot insure:
-	•	Contents (because they don’t own them)
-
-B. Tenant (Renter)
-	•	Does not own the building
-	•	Lives temporarily
-	•	Can insure:
-	•	Contents / BPP (Business or Personal Property)
-	•	Cannot insure:
-	•	Building
-
-⸻
-
-4. Contents Insurance & Valuables
-
-Contents Coverage
-	•	Covers household items
-	•	Also covers valuables, but:
-	•	There is a cap / blanket limit
-	•	Example: Maximum $2,500
-
-Scheduled Personal Property / VPP (Valuable Personal Property)
-
-What is VPP?
-	•	Each valuable item is:
-	•	Listed one by one
-	•	With individual value
-	•	Example:
-	•	Jewelry piece 1 – value mentioned
-	•	Jewelry piece 2 – value mentioned
-
-Why it’s called “Scheduled”?
-	•	Because items are individually listed
-	•	Claim payout = exact scheduled value
-
-Advantages of VPP
-	•	Covers actual full value
-	•	No low blanket limit
-	•	Worldwide coverage
-	•	Office
-	•	Interstate travel
-	•	International travel
-
-⸻
-
-5. Watercraft Insurance
-	•	Covers:
-	•	Boat
-	•	Machinery
-	•	Separate coverage under property-related products
-
-⸻
-
-6. Liability Coverages
-
-Medical Payments
-	•	Covers medical expenses for injured third parties
-
-Liability Coverage
-	•	Covers legal responsibility for:
-	•	Bodily injury
-	•	Property damage to others
-
-⸻
-
-7. Umbrella Insurance
-
-What is Umbrella Policy?
-	•	Provides:
-	•	Higher liability limits
-	•	Wider coverage
-	•	Applies over and above:
-	•	Property insurance
-	•	Auto insurance
-
-Who Can Take Umbrella Policy?
-	•	Property owners
-	•	Auto owners
-
-⸻
-
-8. Travel Insurance
-
-Coverage Includes
-	•	Medical emergencies during travel
-	•	Baggage loss
-	•	Passport loss
-	•	Trip-related risks
-
-Coverage Period
-	•	From:
-	•	Start of travel
-	•	Till:
-	•	Return back home
-
-⸻
-
-9. Catastrophic Insurance
-
-Examples
-	•	Flood
-	•	Earthquake
-	•	Terrorism
-
-Provider
-	•	Usually sponsored by:
-	•	State Insurance Department, or
-	•	Federal Insurance Programs
-
-⸻
-
-10. USAA Agency & External Products
-
-Why USAA Uses External Insurers
-	•	Some products are not offered directly by USAA
-	•	USAA Agency:
-	•	Procures coverage from external insurers
-	•	Offers them to USAA members
-
-Benefits to Members
-	•	Members get:
-	•	5% additional discount
-	•	Convenience
-	•	Member retention & better service
-
-⸻
-
-11. Insurance to Value (ITV)
-
-What is ITV?
-	•	Cost required to:
-	•	Rebuild home from scratch
-	•	Replace:
-	•	Carpet
-	•	Furniture
-	•	Appliances
-	•	Personal belongings
-
-Why ITV is Important
-	•	Avoids underinsurance
-	•	If insured for lower value:
-	•	Claim payout will be less
-	•	Leads to regret during loss
-
-How to Determine ITV
-	•	Calculated by experts using tools like:
-	•	MSB
-	•	Exact valuation methods
-
-⸻
-
-12. Smart Home / IoT Devices
-
-Purpose
-	•	Detect losses early
-	•	Prevent or minimize damage
-
-Examples
-	•	Wind detectors
-	•	Water leak detectors
-	•	Fire sensors
-
-Benefits
-	•	Reduced loss severity
-	•	Discounted premium for homeowners
-
-How It Works
-	•	Devices send data to vendors
-	•	Vendors share data with insurance companies
-	•	Insurers:
-	•	Monitor risk exposure
-	•	Alert policyholders if risk increases
-	•	Notify even if owner is far away
-
-⸻
-
-13. Training & Assessment Process
-	•	Courses assigned through Tech Academy
-	•	Users cannot self-enroll
-	•	Same slides used for:
-	•	Learning
-	•	Assessments
-	•	Next session:
-	•	Claims & Claims Flow
-
-⸻
-
-If you want, I can also:
-	•	✍️ Convert this into exam Q&A
-	•	📌 Make one-page revision notes
-	•	🧠 Create MCQs with answers
-	•	🗂️ Turn it into PowerPoint-style notes
-
-Just tell me what you need next 😊
+'m Bhavya, so I'll be walking you guys through auto application flow today.
+1:32
+1 minute 32 seconds
+It it will be very short session.
+1:34
+1 minute 34 seconds
+So let's start now broadly dividing.
+1:39
+1 minute 39 seconds
+Auto flow is divided, basically divided into two kinds.
+1:42
+1 minute 42 seconds
+It is Pass and AIR flow.
+1:45
+1 minute 45 seconds
+Pass is nothing but policy, administrative system and AIR is a auto insurance redesign.
+26:21
+26 minutes 21 seconds
+So once you start working on coding you will be.
+26:30
+26 minutes 30 seconds
+You also need to concentrate on this transaction, so based on this you can be debugging the errors or issues which we'll be getting while working on codes.
+26:42
+26 minutes 42 seconds
+But now let's just stick to the flow.
+27:14
+27 minutes 14 seconds
+But this is also not working right?
+28:03
+28 minutes 3 seconds
+Am I audible guys?
+28:11
+28 minutes 11 seconds
+Hello.
+28:29
+28 minutes 29 seconds
+Yeah hello.
+28:34
+28 minutes 34 seconds
+Who is this?
+29:34
+29 minutes 34 seconds
+None of the regions are working for mobile and member.
+29:38
+29 minutes 38 seconds
+So OK all the basic things what you need for keying the policy in mobile and member I have given to you already.
+29:47
+29 minutes 47 seconds
+So I guess you guys can start trying by keying the policy and let me know if you have any doubts.
+29:55
+29 minutes 55 seconds
+You can see you can check select any of the regions and key the policy.
+30:02
+30 minutes 2 seconds
+As I said the default password will be core value S one and if it asks for four digit pin it will be 1231 and if it asks for six digit pin it will be 123456.
+30:15
+30 minutes 15 seconds
+So I hope you guys can go and start trying to take the policies.
+30:21
+30 minutes 21 seconds
+Also if you want any details regarding the auto application flow, you can also go to go slash auto newbie.
+30:29
+30 minutes 29 seconds
+So you will have all the details related to auto flow there 4 slash auto auto QP.
+30:40
+30 minutes 40 seconds
+Oh if you see this you'll have all the details related to auto flow code related things and all the training things you'll you'll find in this wiki link.
+30:57
+30 minutes 57 seconds
+They'll have all these things so you can go through them and you can get back to me if you have any doubts.
+31:05
+31 minutes 5 seconds
+So as we have seen MSR flow, so MSR, I guess you guys are fine with MSR, right?
+31:13
+31 minutes 13 seconds
+Any doubts regarding that one, OK, I'll take it as a no.
+31:25
+31 minutes 25 seconds
+So we need to you guys need to go through the member and mobile flows.
+31:31
+31 minutes 31 seconds
+So I request you to go and start keying member and mobile flow and get back to me if you have any doubts.
+31:39
+31 minutes 39 seconds
+So my mail ID is bhavya.get@usw.com.
+31:45
+31 minutes 45 seconds
+You can ping there or you can ping in teams also.
+31:49
+31 minutes 49 seconds
+So I guess we can wind up the session now.
+31:52
+31 minutes 52 seconds
+So any doubts regarding anything related to auto flow, just feel free to ask now.
+32:25
+32 minutes 25 seconds
+OK guys, then I think we are good.
+32:30
+32 minutes 30 seconds
+Shirin, do you want to want me to cover anything else now?
